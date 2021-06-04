@@ -6,7 +6,3 @@ O projeto tem como objetivo estudar os principios de DataScience utilizando Pyth
 Os dados são lidos a cada rodada por meio de uma API, Disponivel em: <https://github.com/wgenial/cartrolandofc/blob/master/nova-api.md>
 
 Em seguida seus dados são tratados e analizados
-
-
-
-asfpisahposdhgkpasjdghfpkdsgpgkdggkghdçkjgh
